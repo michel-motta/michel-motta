@@ -1,9 +1,9 @@
 # Title
 # Oie, bem-vindo ao meu perfil 
 
-- 😎 23 anos, carioca e apaixonado por tecnologia.
-- 🌱 Atualmente estudando a base do desenvolvimento Web e cursando o 2º período de Sistema de Informação.
-- 💻 GBS Associates Program Intern at IBM
+- 😎 23 anos, carioca e apaixonado por tecnologia
+- 🌱 Atualmente estudando JavaScript e cursando o 1º período de Engenharia de Software
+- 💻 IBM Consulting Intern
 - 😄 Pronomes: Ele/Dele
 
 #### Tecnologias
