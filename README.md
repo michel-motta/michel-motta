@@ -1,4 +1,3 @@
-# Title
 # Oie, bem-vindo ao meu perfil 
 
 - 😎 23 anos, carioca e apaixonado por tecnologia
