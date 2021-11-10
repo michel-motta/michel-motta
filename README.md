@@ -1,33 +1,37 @@
-# Oie, bem-vindo ao meu perfil 
-
-- 😎 23 anos, carioca e apaixonado por tecnologia
-- 🌱 Atualmente estudando JavaScript e cursando o 1º período de Engenharia de Software
-- 💻 IBM Consulting Intern
-- 😄 Pronomes: Ele/Dele
-
-#### Tecnologias
-<div style="display: inline_block">
-  <img align="center" alt="Michel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Michel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Michel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Michel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<h1>Hello, I'm Michel Motta! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<div>
+  <a href = "mailto:michelmotta.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/michelmotta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
 </div>
 
 <br>
-<!--
+<div>
+  <ul>
+    <li>🤓 IBM Consulting Intern</li>
+    <li>🇧🇷 Rio de Janeiro, Brazil</li>
+    <li>🌱 Working on JavaScript projects</li>
+    <li>📚 Software Engineering at Ampli</li>
+  </ul>
+</div>
+
+<h3>Technologies</h3>
+
+<div style="display: inline_block">
+  <img align="center" alt="Motta-HTML" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Motta-CSS" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Motta-JS" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+<!---
   <img align="center" alt="Michel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img align="center" alt="Michel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
 -->
 
+<div align="center">
   <a href="https://github.com/msvmotta">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=msvmotta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msvmotta&layout=compact&langs_count=7&theme=dark"/> 
-
-
----
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michelmotta.dev@gmail.com)](mailto:michelmotta.dev@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelmotta/)](https://www.linkedin.com/in/michelmotta/)  [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/michel_motta/)](https://t.me/michel_motta/)
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msvmotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msvmotta&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!---
 msvmotta/msvmotta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
