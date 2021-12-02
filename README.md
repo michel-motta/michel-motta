@@ -1,4 +1,4 @@
-<h1>Hello, I'm Michel Motta! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Olá, bem-vindo(a) ao meu perfil! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <div>
   <a href="https://www.linkedin.com/in/michelmotta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="__blank">
 </a> 
@@ -8,13 +8,14 @@
 <div>
   <ul>
     <li>🤓 IBM Consulting Intern</li>
-    <li>🇧🇷 Rio de Janeiro, Brazil</li>
-    <li>🌱 Working on JavaScript projects</li>
-    <li>📚 Software Engineering at Ampli</li>
+    <li>🇧🇷 Rio de Janeiro</li>
+    <li>🌱 Trabalhando em projetos HTML, CSS e Javascript</li>
+    <li>💪 Aprendendo Node.JS</li>
+    <li>📚 Cursando Engenharia de Software na Ampli</li>
   </ul>
 </div>
 
-<h3>Technologies</h3>
+<h3>Tecnologias</h3>
 
 <div style="display: inline_block">
   <img align="center" alt="Motta-HTML" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
