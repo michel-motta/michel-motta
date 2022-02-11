@@ -9,8 +9,7 @@
   <ul>
     <li>🤓 IBM Consulting Intern</li>
     <li>🇧🇷 Rio de Janeiro</li>
-    <li>🌱 Trabalhando em projetos HTML, CSS e Javascript</li>
-    <li>💪 Aprendendo Node.JS</li>
+    <li>🌱 Atualmente estudando desenvolvimento backend e blockchain</li>
     <li>📚 Cursando Engenharia de Software na Ampli</li>
   </ul>
 </div>
