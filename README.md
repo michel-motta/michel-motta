@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://github.com/msvmotta">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msvmotta&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel-motta&layout=compact"/>
 </div>
 
 <!---
