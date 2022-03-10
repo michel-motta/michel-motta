@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://github.com/msvmotta">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel-motta&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel-motta&count_private=true&show_icons=true&theme=dracula"/>
 </div>
 
 <!---
