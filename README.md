@@ -10,7 +10,7 @@
     <li>🤓 IBM Consulting Intern</li>
     <li>🇧🇷 Rio de Janeiro</li>
     <li>🌱 Atualmente estudando desenvolvimento backend e blockchain</li>
-    <li>📚 Cursando Engenharia de Software na Ampli</li>
+    <li>📚 Cursando Ciência da Computação na Faculdade Descomplica
   </ul>
 </div>
 
