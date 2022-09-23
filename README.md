@@ -1,4 +1,4 @@
-<h1>Olá, bem-vindo(a) ao meu perfil! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Welcome to my github <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <div>
   <a href="https://www.linkedin.com/in/michelmotta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="__blank">
 </a> 
@@ -7,10 +7,10 @@
 <br>
 <div>
   <ul>
-    <li>🤓 IBM Consulting Intern</li>
-    <li>🇧🇷 Rio de Janeiro</li>
-    <li>🌱 Atualmente estudando desenvolvimento backend e blockchain</li>
-    <li>📚 Cursando Ciência da Computação na Faculdade Descomplica
+    <li>🤓 Associate Application Developer at IBM</li>
+    <li>🇧🇷 Rio de Janeiro - RJ</li>
+    <li>🌱 Currently studying data science, specifically statistical methods</li>
+    <!-- <li>📚 Cursando Ciência da Computação na Faculdade Descomplica -->
   </ul>
 </div>
 
@@ -23,12 +23,13 @@
   <img align="center" alt="Motta-Git"height="33"width="44"src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg">
   <img align="center" alt="Motta-Node"height="33"width="44"src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Michel-Ts" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+    <img align="center" alt="Motta-Node"height="33"width="44"src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg">
 </div>
 
 
 <br>
 <!---
-  <img align="center" alt="Motta-Node"height="33"width="44"src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg">
+  
   <img align="center" alt="Michel-React" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
 -->
 
