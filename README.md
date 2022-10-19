@@ -9,8 +9,6 @@
   <ul>
     <li>🤓 Associate Application Developer at IBM</li>
     <li>🇧🇷 Rio de Janeiro - RJ</li>
-    <li>🌱 Currently studying data science, specifically statistical methods</li>
-    <!-- <li>📚 Cursando Ciência da Computação na Faculdade Descomplica -->
   </ul>
 </div>
 
