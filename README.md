@@ -9,7 +9,7 @@
   <ul>
     <li>🤓 Associate Application Developer at IBM</li>
     <li>🇧🇷 Rio de Janeiro - RJ</li>
-    <li> Currently studying Angular 14 and its new features. </li>
+    <li> Currently studying Javascript ecosystem. </li>
   </ul>
 </div>
 
