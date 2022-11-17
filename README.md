@@ -23,14 +23,13 @@
   <img align="center" alt="Motta-Node"height="33"width="44"src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Michel-Ts" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
     <img align="center" alt="Motta-Node"height="33"width="44"src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg">
+    <img align="center" alt="Michel-React" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
 </div>
 
 
-<br>
-<!---
-  
-  <img align="center" alt="Michel-React" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
--->
+<br><br>
+
+
 
 <div align="center">
   <a href="https://github.com/msvmotta">
