@@ -7,7 +7,7 @@
 <br>
 <div>
   <ul>
-    <li>🤓 Associate Application Developer at IBM</li>
+    <li>🤓 Software Engineer at IBM</li>
     <li>🇧🇷 Rio de Janeiro - RJ</li>
     <li> Currently studying Data Science. </li>
   </ul>
