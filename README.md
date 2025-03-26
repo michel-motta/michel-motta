@@ -9,7 +9,7 @@
   <ul>
     <li>🤓 Software Engineer at CI&T</li>
     <li>🇧🇷 Rio de Janeiro - RJ</li>
-    <li> Currently studying deeply Node.js. </li>
+    <li> Currently studying Golang. </li>
   </ul>
 </div>
 
